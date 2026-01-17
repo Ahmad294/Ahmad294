@@ -126,7 +126,7 @@ A modern, multilingual and responsive website for a U.S.-based institution.
 
 **Huawei Seeds for the Future** is a prestigious global program that nurtures ICT talent and promotes knowledge transfer.
 
-I was **contacted directly by Huawei** to participate in this intensive program, which included:
+I was **Invited** to participate in this intensive program, which included:
 - **7-day immersive training** focused on cutting-edge technologies
 - **5G Technology deep dive** with hands-on activities
 - **Expert lectures** from professors representing both British and Chinese institutions
