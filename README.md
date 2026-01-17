@@ -34,6 +34,8 @@
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
 
+<br clear="both">
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -74,6 +76,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<br clear="both">
 
 <h3 align="left">🚧 What I’m Building Right Now</h3>
 
