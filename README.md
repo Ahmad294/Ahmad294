@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Ahmad
 
-<!--
-**Ahmad294/Ahmad294** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Frontend Engineer who enjoys turning complex ideas into clean, usable interfaces.
+My main playground is React & modern web technologies, and I care a lot about performance, clarity, and good UX.
 
-Here are some ideas to get you started:
+I like building things that are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fast
+
+🎯 Purpose-driven
+
+🧩 Easy to maintain
+
+Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.
+
+**🛠️ Tech Stack**
+
+👨🏻‍💻 Languages
+
+JavaScript | TypeScript | HTML | CSS |Go (in progress)
+
+⚙️ Technologies & Tools
+
+React | Next.js | Tailwind CSS | TanStack Toolkit (Router, Table, Query, etc.) | Redux | Git / Version Control | shadcn/ui | PrimeReact | and more...
