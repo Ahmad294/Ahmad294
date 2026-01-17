@@ -4,8 +4,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/ahmad-alhajjeh-a74301287" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
@@ -34,7 +32,6 @@
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
 
-<br clear="both">
 
 ###
 
@@ -42,7 +39,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -76,7 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<br clear="both">
 
 <h3 align="left">🚧 What I’m Building Right Now</h3>
 
