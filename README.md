@@ -72,19 +72,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+<div align="left" style="
+  border: 1px solid #30363d;
+  border-radius: 12px;
+  padding: 20px;
+  background-color: rgba(13,17,23,0.5);
+  max-width: 900px;
+">
 
-<h3 align="left">🚧 What I’m Building Right Now</h3>
+  <h3 style="margin-top: 0;">🚧 What I’m Building Right Now</h3>
 
-<p align="left">
-  I’m currently working at <b>Bene Solution</b>, a startup software company, where I contribute to
-  <b>BeneHR</b> — an HR management system built for <b>small to mid-sized companies</b>.
-  <br/><br/>
-  My role focuses on developing a <b>responsive, high-performance frontend</b> that simplifies
-  employee data management, attendance tracking, and role-based access control.
-  Using <b>React</b>, <b>TypeScript</b>, and <b>RESTful APIs</b>, I build and optimize complex features
-  to improve load times and deliver smooth, intuitive user interactions.
-  <br/><br/>
-  I work closely with <b>designers</b> and <b>domain experts</b> to translate product requirements
-  into <b>clean, visually consistent interfaces</b>, ensuring technical feasibility while maintaining
-  a strong focus on usability and overall user experience.
-</p>
+  <p>
+    I’m currently working at <b>Bene Solution</b>, a startup software company, where I contribute to
+    <b>BeneHR</b> — an HR management system built for <b>small to mid-sized companies</b>.
+    <br/><br/>
+    My role focuses on developing a <b>responsive, high-performance frontend</b> that simplifies
+    employee data management, attendance tracking, and role-based access control.
+    Using <b>React</b>, <b>TypeScript</b>, and <b>RESTful APIs</b>, I build and optimize complex features
+    to improve load times and deliver smooth, intuitive user interactions.
+    <br/><br/>
+    I work closely with <b>designers</b> and <b>domain experts</b> to translate product requirements
+    into <b>clean, visually consistent interfaces</b>, ensuring technical feasibility while maintaining
+    a strong focus on usability and overall user experience.
+  </p>
+
+</div>
+
