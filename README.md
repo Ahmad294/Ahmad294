@@ -7,15 +7,13 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmad-alhajjeh-a74301287" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
+  <a href="www.linkedin.com/in/ahmad-alhajjeh-a74301287" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-
-  <a href="mailto:ahmadalhajjeh203@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail" />
+  <a href="ahmadalhajjeh203@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
-
 
 ###
 
@@ -33,7 +31,7 @@
 
 ###
 
-<p align="left">I'm from 🇯🇴.<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
 
 ###
 
@@ -74,6 +72,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
 
 <h3 align="left">🚧 What I’m Building Right Now</h3>
 
