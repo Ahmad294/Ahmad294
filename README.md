@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
+<p align="left">I'm from 🇯🇴.<br><br>- 🔭 I’m working as Front-end developer and UI/UX designer<br>- 📚 Currently, I’m expanding my skill set by diving into Go (Golang) to better understand backend systems and scalable architectures.</p>
 
 ###
 
