@@ -37,7 +37,7 @@ const ahmad = {
   education: "B.S. Computer Information Systems - JUST (GPA: 3.48 Honor)",
   experience: "Bene Solution",
   currentFocus: "Building BeneHR - HR Management System",
-  learning: ["Go (Golang)", "Backend Architecture", "German (A1 level)"],
+  learning: ["Go (Golang)", "German (A1 level)"],
   achievements: ["Google Summer of Code 2022],
   passion: "Turning complex ideas into clean, intuitive interfaces"
 };
