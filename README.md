@@ -37,8 +37,8 @@ const ahmad = {
   education: "B.S. Computer Information Systems - JUST (GPA: 3.48 Honor)",
   experience: "Bene Solution",
   currentFocus: "Building BeneHR - HR Management System",
-  learning: ["Go (Golang)", "German (A1 level)"],
-  achievements: ["Google Summer of Code 2022],
+  learning: ["Java", "German (A1 level)"],
+  achievements: ["Google Summer of Code 2022"],
   passion: "Turning complex ideas into clean, intuitive interfaces"
 };
 ```
@@ -69,46 +69,8 @@ I'm a frontend engineer who specializes in **React**, **TypeScript**, and modern
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 </div>
-
----
-
-## 🚀 What I'm Building Right Now
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 BeneHR @ Bene Solution
-A comprehensive **HR management system** for small to mid-sized companies in Germany.
-
-**Key Features:**
-- ✅ Employee data management with role-based access
-- ✅ Timesheet & vacation tracking (German labor law compliant)
-- ✅ Shift assignment system (automatic & manual)
-- ✅ Real-time WebSocket notification system
-- ✅ DATEV API integration for payroll
-
-**Tech:** React, TypeScript, Spring Boot, PostgreSQL
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 Tallum
-A modern, multilingual and responsive website for a U.S.-based institution.
-
-**Key Features:**
-- 🎨 Responsive UI with smooth animations
-- 📬 Messaging & contact integration (SMTP / JS Email services)
-- ⚡ Optimized performance and fast load times
-- 🌍 Multilingual support with clean UX
-
-**Tech:** React, TypeScript, Tailwind CSS
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -154,68 +116,22 @@ The program covered comprehensive topics in modern telecommunications:
 
 ---
 
-## 📚 Courses Completed
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚛️ Frontend Development
-
-**The Ultimate React Course** *(+80 hours)*  
-*by Jonas Schmedtmann*  
-Built multiple applications using React and explored advanced tools and libraries within the ecosystem.
-
-**The Complete JavaScript Course: From Zero to Expert!** *(+50 hours)*  
-*by Jonas Schmedtmann*  
-Developed a strong foundation in vanilla JavaScript, covering modern ES6+ features and best practices.
-
-</td>
-<td width="50%">
-
-### 🎨 Design & UX
-
-**UI/UX Design Principles Compact**  
-*by Christine - Moonlearning*  
-Learned fundamental design principles, user research methodologies, and best practices for creating intuitive interfaces.
-
-**Favorite Book**: *Refactoring UI*  
-*by Adam Wathan & Steve Schoger*  
-A practical guide that transformed my approach to visual design and interface polish.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🎯 Currently Learning
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Learn How To Code: Google's Go (golang)**  
-*by Todd McLeod*
+**Java**
 
-Building backend expertise with Go's powerful concurrency model and clean syntax.
-
-</td>
-<td align="center" width="33%">
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Docker and Kubernetes: The Complete Course**  
-*by Lauro Fialho Müller*
-
-Starting soon: Mastering containerization and orchestration from zero to hero.
+Building backend expertise with Java's robust ecosystem, object-oriented principles, and enterprise-grade capabilities.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ![German](https://img.shields.io/badge/-German%20A1-000000?style=for-the-badge&logo=duolingo&logoColor=white)
 
@@ -227,42 +143,7 @@ Developing language proficiency for international career opportunities.
 </tr>
 </table>
 
-**🎯 Goal**: Preparing for **Golang Developer** position at **Kubermatic**, working on CNCF projects and cloud-native infrastructure.
-
 </div>
-
----
-
-## 💡 Highlight Projects
-
-<details>
-<summary><b>🏢 BeneHR - Enterprise HR Management System</b></summary>
-
-**Description:** Complete HR solution for German companies with DATEV integration
-
-**Achievements:**
-- Reduced page load times by optimizing React component architecture
-- Implemented complex vacation approval system with shift group integration
-- Built responsive timesheet interface with real-time validation
-- Integrated OAuth2 authentication with DATEV payroll APIs
-
-**Tech Stack:** React, TypeScript, Spring Boot, PostgreSQL, WebSocket, REST APIs
-
-</details>
-
-<details>
-<summary><b>🌐 Tallum - Multilingual Website</b></summary>
-
-**Description:** Fully responsive website for U.S.-based institution
-
-**Highlights:**
-- Enhanced original design for improved usability
-- Smooth animations for elevated UX
-- Efficient data collection with JSEmail and Mailchimp
-
-**Tech Stack:** React, Next.js, TailwindCSS
-
-</details>
 
 ---
 
@@ -280,7 +161,7 @@ I believe in creating interfaces that are:
 
 ## 🤝 Let's Connect
 
-I thrive in **collaborative environments** where I can learn, innovate, and contribute to impactful products. Whether it's discussing React patterns, Go best practices, or UI/UX design principles - I'm always excited to connect!
+I thrive in **collaborative environments** where I can learn, innovate, and contribute to impactful products. Whether it's discussing React patterns, Java best practices, or UI/UX design principles - I'm always excited to connect!
 
 <div align="center">
 
