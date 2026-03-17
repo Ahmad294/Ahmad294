@@ -166,7 +166,7 @@ I thrive in **collaborative environments** where I can learn, innovate, and cont
 <div align="center">
 
 **Open to opportunities in:**  
-Full Stack Development | Frontend Engineering | Cloud Native Development
+Full Stack Development | Frontend Engineering
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhajjeh-a74301287)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadalhajjeh203@gmail.com)
