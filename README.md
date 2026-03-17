@@ -38,7 +38,6 @@ const ahmad = {
   experience: "Bene Solution",
   currentFocus: "Building BeneHR - HR Management System",
   learning: ["Java", "German (A1 level)"],
-  achievements: ["Google Summer of Code 2022"],
   passion: "Turning complex ideas into clean, intuitive interfaces"
 };
 ```
