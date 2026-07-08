@@ -5,9 +5,9 @@
 <h1 align="center">👋 Hey there, I'm Ahmad Alhejjah</h1>
 
 <p align="center">
-  <strong>Frontend Software Engineer | UI/UX designer </strong>
+  <strong>Software Engineer</strong>
   <br/>
-  Building performant, scalable, and user-focused web applications
+  Building performant, scalable, and user-focused applications
 </p>
 
 <div align="center">
@@ -33,17 +33,12 @@
 ```typescript
 const ahmad = {
   location: "Jordan, Zarqa",
-  role: "Frontend Software Engineer | UI/UX designer",
-  education: "B.S. Computer Information Systems - JUST (GPA: 3.48 Honor)",
-  experience: "Bene Solution",
-  currentFocus: "Building BeneHR - HR Management System",
-  learning: ["Java", "German (A1 level)"],
-  passion: "Turning complex ideas into clean, intuitive interfaces"
+  role: "Software Engineer",
+  education: "B.S. Computer Information Systems",
 };
 ```
 
-I'm a frontend engineer who specializes in **React**, **TypeScript**, and modern web technologies. I care deeply about **performance**, **clarity**, and delivering exceptional user experiences. My work spans from comprehensive German HR management systems to telecom engineering tools and infrastructure monitoring platforms.
-
+I'm a software engineer with hands-on experience across frontend and infrastructure. I care deeply about **performance**, **clarity**, and building systems that scale. 
 ---
 
 ## 🛠️ Tech Stack
@@ -75,99 +70,13 @@ I'm a frontend engineer who specializes in **React**, **TypeScript**, and modern
 
 ---
 
-<div align="center">
-
-## 🌱 Huawei Seeds for the Future
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Huawei_Standard_logo.svg/320px-Huawei_Standard_logo.svg.png" alt="Huawei Logo" height="60"/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📚 What is it?
-
-**Huawei Seeds for the Future** is a prestigious global program that nurtures ICT talent and promotes knowledge transfer.
-
-I was **Invited** to participate in this intensive program, which included:
-- **7-day immersive training** focused on cutting-edge technologies
-- **5G Technology deep dive** with hands-on activities
-- **Expert lectures** from professors representing both British and Chinese institutions
-- Interactive workshops and real-world case studies
-
-</td>
-<td width="50%">
-
-### 🎓 What I Learned
-
-The program covered comprehensive topics in modern telecommunications:
-
-- 📡 **5G Networks**: Architecture, deployment, and use cases
-- 🌐 **Next-gen Communications**: IoT, Cloud, and Edge Computing
-- 💡 **Innovation Mindset**: Problem-solving and tech entrepreneurship
-- 🤝 **Global Collaboration**: Cross-cultural teamwork and networking
-
-**Achievement**: Awarded an official **Huawei Certificate** upon successful completion of the program.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Java**
-
-Building backend expertise with Java's robust ecosystem, object-oriented principles, and enterprise-grade capabilities.
-
-</td>
-<td align="center" width="50%">
-
-![German](https://img.shields.io/badge/-German%20A1-000000?style=for-the-badge&logo=duolingo&logoColor=white)
-
-**German Language (A1)**
-
-Developing language proficiency for international career opportunities.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🎨 Design Philosophy
-
-> **"Refactoring UI"** by Adam Wathan & Steve Schoger
-
-I believe in creating interfaces that are:
-- 🎯 **Intuitive** - Users shouldn't need instructions
-- ⚡ **Performant** - Speed is a feature
-- 🎨 **Beautiful** - Good design is invisible
-- ♿ **Accessible** - Everyone deserves a great experience
-
----
-
 ## 🤝 Let's Connect
 
-I thrive in **collaborative environments** where I can learn, innovate, and contribute to impactful products. Whether it's discussing React patterns, Java best practices, or UI/UX design principles - I'm always excited to connect!
+I thrive in **collaborative environments** where I can learn, innovate, and contribute to impactful products. Whether it's discussing system design or frontend patterns — I'm always excited to connect!
 
 <div align="center">
 
-**Open to opportunities in:**  
-Full Stack Development | Frontend Engineering
+**Got an idea, a project, or just want to say hi? My inbox doesn't bite — drop me a message!**  
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-alhajjeh-a74301287)
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadalhajjeh203@gmail.com)
